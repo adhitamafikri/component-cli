@@ -1,0 +1,1 @@
+"import React from 'react'\n\nfunction OctoPusha() {\n  return (\n    <h1>This is OctoPusha for pages/component</h1>\n  )\n}\n\nexport default OctoPusha\n  "
